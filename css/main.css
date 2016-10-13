@@ -1,0 +1,19 @@
+html {
+  line-height: 1.5;
+  background-color: #ddd6cf;
+  color: #fff;
+  text-decoration: none;
+}
+
+header {
+  font-family: "bevan", serif;
+  text-align: center;
+}
+
+
+.nav li {
+  display: inline-block;
+  font-family: sans-serif;
+  color: #fff;
+
+}
